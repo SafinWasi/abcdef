@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "694e685d2e66dc3c4ea4c5faf7a7b0424cf893370dbe",
+        "name": "gatewayDemo",
+        "description": "",
+        "version": "0.0.0",
+        "created_date": "2026-03-23T09:56:38.984585+00:00",
+        "updated_date": "2026-03-23T09:56:38.984610+00:00"
+    }
+}
